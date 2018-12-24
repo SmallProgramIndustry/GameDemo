@@ -1,0 +1,24 @@
+{
+  "global": {
+    "gridColor": 8421504,
+    "gridEnabled": false,
+    "gridSize": 20
+  },
+  "167de03dbf4": {
+    "backgroundType": "null",
+    "backgroundColor": "#ffffff",
+    "backgroundX": 0,
+    "backgroundY": 0,
+    "backgroundWidth": -1,
+    "backgroundHeight": -1,
+    "useBgImage": true,
+    "useBgColor": true,
+    "backgroundAlpha": 100,
+    "guideLines": [
+      {
+        "type": "v",
+        "pos": 229
+      }
+    ]
+  }
+}
